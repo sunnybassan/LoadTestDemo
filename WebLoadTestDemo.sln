@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebLoadTestDemo", "WebLoadTestDemo\WebLoadTestDemo.csproj", "{031AE8D9-3C25-4D95-BB34-9A0EE82A0210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{F685B341-BD09-4D49-A512-1F35445CE318}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ED88E2C3-CC01-4A62-8343-71ACF919AD3A}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{031AE8D9-3C25-4D95-BB34-9A0EE82A0210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{031AE8D9-3C25-4D95-BB34-9A0EE82A0210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{031AE8D9-3C25-4D95-BB34-9A0EE82A0210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{031AE8D9-3C25-4D95-BB34-9A0EE82A0210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F685B341-BD09-4D49-A512-1F35445CE318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F685B341-BD09-4D49-A512-1F35445CE318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F685B341-BD09-4D49-A512-1F35445CE318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F685B341-BD09-4D49-A512-1F35445CE318}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
